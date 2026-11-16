@@ -1,0 +1,6 @@
+# Added by ObsidianSync — local-machine-only state.
+# .obsidian/plugins, themes, snippets and config are NOT ignored,
+# so installed community plugins sync across every device.
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.trash/
